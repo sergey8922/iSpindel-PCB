@@ -3,8 +3,8 @@ This is a modified version of iSpindel drawer proposed in PCB format instead of 
 Two folder for different pcb solution (short and long pcb)
 
 # iSpindel - SMD
-select iSpindel- smd for download file and instruction 
-thanks for your donation 
+select iSpindel-smd.zip for download and see SMD version for instruction 
+Thanks you for a donation 
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HKJ2RRVYHFGQ2&source=url
 
 
