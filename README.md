@@ -1,10 +1,12 @@
-DO NOT USE THE SMD ISPINDEL VERSION. IT SEEMS TO BE A PROBLEM DURING FLASH. ANALYSIS RUNNING
+####################################################################################################
+### DO NOT USE THE SMD ISPINDEL VERSION. IT SEEMS TO BE A PROBLEM DURING FLASH. ANALYSIS RUNNING ###
+####################################################################################################
 
 # iSpindel-PCB
 This is a modified version of iSpindel drawer proposed in PCB format instead of 3d print. The project is available at: https://github.com/universam1/iSpindel
 Two folder for different pcb solution (short and long pcb)
 
-# iSpindel - SMD
+# iSpindel - SMD  >>>> DO NOT USE THE SMD ISPINDEL VERSION. IT SEEMS TO BE A PROBLEM DURING FLASH. ANALYSIS RUNNING <<<<
 select iSpindel-smd.zip for download and see SMD version for instruction 
 Thanks you for a donation 
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HKJ2RRVYHFGQ2&source=url
